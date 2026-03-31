@@ -1,0 +1,7 @@
+{
+  "name": "PawsLife - Pet Blood Donation & SOS",
+  "description": "A life-saving community platform for pet blood donation, emergency matching, and health management.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
